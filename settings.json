@@ -1,0 +1,11 @@
+{
+  "editor.tokenColorCustomizations": {
+    "comments": "#b1a0ff",
+    "strings": "#f892b1"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.foreground": "#c1c9ff",
+    "activityBar.inactiveForeground": "#6d77b4",
+  },
+  "files.autoSave": "afterDelay",
+}
